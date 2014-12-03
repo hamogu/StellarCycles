@@ -9,6 +9,6 @@ X-ray data.
 
 This code is very similar to the analysis in `Hoffmann et al (2012)
 <http://adsabs.harvard.edu/abs/2012ApJ...759..145H>`_ but it is programmed
-again from scratch for the analysis of the Chandra Deep Field South (CDFS). THe
+again from scratch for the analysis of the Chandra Deep Field South (CDFS). The
 data analysis for that was done by Maurice Wilson and will be presented at the
 AAS conference in January 2015.
